@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://ak7me.github.io/project/)
+- [Публичная страница на GitHub Pages](https://ak7me.github.io/project/src/index.html)
